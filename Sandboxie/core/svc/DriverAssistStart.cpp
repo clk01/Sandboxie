@@ -247,8 +247,7 @@ driver_started:
             "8F6FB5EA0CABD1013F04E56F4B25D65C" "\r\n"
             "F2525828B95596FB64138BDB97F0BEE7" "\r\n"
             // Other:
-            "45923506432956493562935693478346" "\r\n" // F
-            "63F49D96BDBA28F8428B4A5008D1A587";       // X
+            "45923506432956493562935693478346";
 
         const unsigned char BlockListSig0[64] =  {
             0xc6, 0x86, 0x1b, 0xeb, 0x91, 0xa7, 0x4e, 0xef,
